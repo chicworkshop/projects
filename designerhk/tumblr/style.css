@@ -3065,4 +3065,8 @@ a {
 #sub-footer {
     margin-bottom: 50px;
 }
+#sub-footer .copyright {
+    color #666;
+}
+
 /* Misc */
