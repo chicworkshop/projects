@@ -3066,7 +3066,13 @@ a {
     margin-bottom: 50px;
 }
 #sub-footer .copyright {
-    color #666;
+    color #777;
 }
-
+#sub-footer .copyright a{
+    color #777;
+    text-decoration: none;
+}
+#sub-footer .copyright a:hover{
+    text-decoration: underline;
+}
 /* Misc */
