@@ -2936,6 +2936,9 @@ body {
     color: #666;
 }
 .social a {
+    font-size: 1.2em;
+}
+.social a {
     color: #666;
     margin: 0 4px;
 }
