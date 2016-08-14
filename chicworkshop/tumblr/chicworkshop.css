@@ -1057,7 +1057,9 @@ body.no-scroll {
     text-align: center
 }
 .blog-title {
-    font-size: 56px;
+    font-size: 48px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
     line-height: 1.2;
     margin: 40px 0 0;
     word-wrap: break-word
@@ -2881,7 +2883,7 @@ body {
 
 .blog-title {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: bold;
+    font-weight: 300;
 }
 
 .blog-title a,
