@@ -116,7 +116,9 @@ html {
     color: #656565
 }
 /* Customer Added */
-
+form span.req {
+    color: #900 !important;
+}
 form li {
     padding: 6px 1% 30px 1%;
 }
