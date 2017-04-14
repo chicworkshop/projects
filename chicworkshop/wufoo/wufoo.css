@@ -121,6 +121,8 @@ form li.buttons input {
     color: #fff;
     padding: 8px 10px;
     line-height: 1.42;
+ letter-spacing: 1px;
+ border-radius: 2px;
 }
 .powertiny {
     display: none!important;
