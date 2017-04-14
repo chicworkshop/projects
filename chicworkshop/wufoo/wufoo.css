@@ -20,7 +20,14 @@ CSS rules into "custom.css".
 /* - - - Default - - - */
 
 /* Logo */
-#logo a {background-image:url('//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636'); min-height:0; height:40px}
+#logo a {
+	background-image:url('//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636') ; 
+	min-height:0; 
+	height:40px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+}
 * html #logo a {/* IE6 png Support */
 	background-image: none;
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://wufoo.com/images/themes/logos/shark.png", sizingMethod="crop");
@@ -28,8 +35,15 @@ CSS rules into "custom.css".
 }
 
 /* Backgrounds */
-html{background-image:none;background-color:#fff}
-#logo{background-image:none;background-color:#669900}
+html{
+	background-image:none;
+	background-color:#fff
+}
+#logo{
+	background-image:none;
+	background-color:#fff
+		padding: 10px 20px;
+}
 #container{background:#FFFFFF}
 .wufoo input.text, .wufoo textarea.textarea{background:#FFFFFF url(/images/fieldbg.gif) repeat-x top}
 .wufoo .focused{background:#FFF7C0}
@@ -41,13 +55,13 @@ html{background-image:none;background-color:#fff}
 .wufoo .instruct{border:1px solid #e6e6e6}
 
 /* Typography */
-.wufoo .info h2{font-size:160%;font-family:inherit;color:#000000}
-.wufoo .info div{font-size:95%;font-family:inherit;color:#444444}
-.wufoo .section h3{font-size:110%;font-family:inherit;background:#FFFFFF;color:#000000}
-.wufoo .section div{font-size:85%;font-family:inherit;color:#444444}
-.wufoo label.desc, .wufoo legend.desc{font-size:95%;font-family:inherit;color:#444444}
-.wufoo li div, .wufoo li div label, .wufoo li span label{font-family:inherit;color:#444444}
+.wufoo .info h2{font-size:160%;font-family:inherit;color:#656565}
+.wufoo .info div{font-size:95%;font-family:inherit;color:#656565}
+.wufoo .section h3{font-size:110%;font-family:inherit;background:#FFFFFF;color:#656565}
+.wufoo .section div{font-size:85%;font-family:inherit;color:#656565}
+.wufoo label.desc, .wufoo legend.desc{font-size:95%;font-family:inherit;color:#656565}
+.wufoo li div, .wufoo li div label, .wufoo li span label{font-family:inherit;color:#656565}
 .wufoo input.text, .wufoo textarea.textarea, .wufoo select.select, .wufoo label.choice{font-size:100%;font-family:inherit;color:#333333}
-.wufoo label.choice{color:#444444}
-.wufoo .instruct{font-size:80%;font-family:inherit;color:#444444
+.wufoo label.choice{color:#656565}
+.wufoo .instruct{font-size:80%;font-family:inherit;color:#656565
 }
