@@ -132,7 +132,7 @@ form li.buttons input {
 
 }
 .wufoo input.btTxt {
-  font-size: .8em;
+  font-size: 1em;
 }
 form li.buttons input:hover {
 background-color: #abcb00;
