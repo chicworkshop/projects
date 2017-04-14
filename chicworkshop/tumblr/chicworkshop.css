@@ -2160,6 +2160,8 @@ figure.photoset {
 }
 .link-wrapper .link-title {
     font-weight: 400
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .link-wrapper .link-title:after {
     display: inline;
