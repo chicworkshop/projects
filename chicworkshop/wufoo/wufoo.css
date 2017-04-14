@@ -114,6 +114,14 @@ html {
     font-size: 80%;
     color: #656565
 }
+/* Customer Added */
+form li.buttons input {
+    text-transform: uppercase;
+    background-color: #929291;
+    color: #fff;
+    padding: 8px 10px;
+    line-height: 1.42;
+}
 .powertiny {
     display: none;
 }
