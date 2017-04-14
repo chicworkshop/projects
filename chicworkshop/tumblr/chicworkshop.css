@@ -285,7 +285,10 @@ body.permalink #posts article {
     display: inline-block;
     font-weight: 400;
     padding: 10px 20px;
-    text-decoration: none
+    text-decoration: none;
+    text-transform: uppercase;
+        border: 1px solid #c5c5c5;
+    color: #656565;
 }
 .related-posts-cta .button.bordered {
     border: 1px solid
