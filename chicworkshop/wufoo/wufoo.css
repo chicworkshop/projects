@@ -140,7 +140,7 @@ form li.buttons input {
  letter-spacing: 1px;
  border-radius: 2px;
  border: none;
-
+font-family: 'Open Sans', sans-serif;
 }
 .wufoo input.btTxt {
   font-size: 1em;
