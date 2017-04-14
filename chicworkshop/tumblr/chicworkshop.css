@@ -281,7 +281,7 @@ body.permalink #posts article {
     text-align: center
 }
 .related-posts-cta .button {
-    border-radius: 3px;
+    border-radius: 2px;
     display: inline-block;
     font-weight: 400;
     padding: 10px 20px;
@@ -335,7 +335,7 @@ body.permalink #posts article {
     color: #fff;
     text-align: center;
     border: 0;
-    border-radius: 3px;
+    border-radius: 2px;
     font-size: 16px;
     font-weight: 400;
     text-decoration: none;
@@ -440,7 +440,7 @@ body.following-page .content {
 .blog-card {
     display: inline-block;
     width: 300px;
-    border-radius: 3px;
+    border-radius: 2px;
     margin: 10px;
     vertical-align: top;
     opacity: 0
@@ -637,7 +637,7 @@ body.following-page .content {
     background-repeat: no-repeat;
     background-position: center;
     min-height: 100%;
-    border-radius: 3px;
+    border-radius: 2px;
     background-clip: padding-box
 }
 .blog-card .highlighted-posts .post-micro {
@@ -755,7 +755,7 @@ div.clear {
 .pop-menu {
     display: none;
     background: #fff;
-    border-radius: 3px;
+    border-radius: 2px;
     position: absolute;
     bottom: 35px;
     left: -64px;
@@ -971,7 +971,7 @@ body.no-scroll {
 }
 .nav-wrapper .nav-item .label {
     text-decoration: none;
-    font-size: 14px;
+    font-size: 13.86px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -1714,7 +1714,7 @@ body.no-scroll {
     background-color: #fff;
     box-sizing: border-box;
     border: 1px solid #eee;
-    border-radius: 3px;
+    border-radius: 2px;
     width: 400px;
     left: 65px;
     box-shadow: 0 2px 7px 1px rgba(0, 0, 0, .1);
@@ -2257,7 +2257,7 @@ figure.photoset {
     background-color: #f2f2f2;
     border: 1px solid #f2f2f2;
     padding: 15px 20px;
-    border-radius: 3px;
+    border-radius: 2px;
     position: relative;
     margin-right: 60px
 }
@@ -2585,7 +2585,7 @@ figure.photoset {
     }
     .user-avatar {
         background-size: 80px 80px;
-        border-radius: 3px;
+        border-radius: 2px;
         height: 80px;
         width: 80px;
         border: 3px solid #f6f6f6
@@ -2836,7 +2836,7 @@ figure.photoset {
 .app-nag .app-nag-app-store-link {
     color: #fff;
     background-color: #929291;
-    border-radius: 3px;
+    border-radius: 2px;
     font-size: 16px;
     cursor: pointer
 }
