@@ -283,7 +283,7 @@ body.permalink #posts article {
 .related-posts-cta .button {
     border-radius: 3px;
     display: inline-block;
-    font-weight: 700;
+    font-weight: 400;
     padding: 10px 20px;
     text-decoration: none
 }
@@ -303,7 +303,7 @@ body.permalink #posts article {
     display: none;
     background: #36465d;
     color: #fff;
-    font-weight: 700;
+    font-weight: 400;
     margin: 16px 0;
     padding: 17px
 }
@@ -337,7 +337,7 @@ body.permalink #posts article {
     border: 0;
     border-radius: 3px;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 400;
     text-decoration: none;
     margin-top: 20px;
     padding: 10px
@@ -523,7 +523,7 @@ body.following-page .content {
     color: #fff;
     float: left;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 400;
     margin: 0 15px 0 10px;
     text-align: left
 }
@@ -554,7 +554,7 @@ body.following-page .content {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     line-height: 22px;
-    font-weight: 700;
+    font-weight: 400;
     text-decoration: none;
     border-radius: 2px;
     display: inline-block;
@@ -973,7 +973,8 @@ body.no-scroll {
     text-decoration: none;
     font-size: 14px;
     font-weight: 400;
-    text-transform: uppercase
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 .header-image-wrapper {
     position: relative;
@@ -1182,7 +1183,7 @@ body.no-scroll {
 .post-header {
     display: none;
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 400;
     padding: 11px 15px;
     border-bottom: 1px solid #e7e7e7
 }
@@ -1281,7 +1282,7 @@ body.no-scroll {
 .post-content h5,
 .post-content h6 {
     font-size: 15px;
-    font-weight: 700
+    font-weight: 400
 }
 .post-content img+p,
 .post-content p+img,
@@ -1474,7 +1475,7 @@ body.no-scroll {
     display: none
 }
 .date-notes .post-notes {
-    font-weight: 700
+    font-weight: 400
 }
 .post-notes+.post-date {
     margin-top: 1px
@@ -1571,7 +1572,7 @@ body.no-scroll {
 #pagination a {
     color: #858585;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 50px;
     text-align: center;
     text-decoration: none;
@@ -1764,7 +1765,7 @@ body.no-scroll {
     text-align: center;
     padding: 10px 13px;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 400;
     border-bottom: 1px solid #eee
 }
 .notes-wrapper-header-close {
@@ -1868,7 +1869,7 @@ body.no-scroll {
 }
 .notes a {
     color: inherit;
-    font-weight: 700;
+    font-weight: 400;
     text-decoration: none
 }
 .notes a:hover {
@@ -2114,7 +2115,7 @@ figure:not(.high-res) .photo-wrapper img[src$='.gif'] {
     padding-bottom: 0
 }
 .chat .conversation .label {
-    font-weight: 700;
+    font-weight: 400;
     margin-right: 5px
 }
 .link .post-extra.has-reblog,
@@ -2158,7 +2159,7 @@ figure.photoset {
     pointer-events: none
 }
 .link-wrapper .link-title {
-    font-weight: 700
+    font-weight: 400
 }
 .link-wrapper .link-title:after {
     display: inline;
@@ -2176,7 +2177,7 @@ figure.photoset {
     white-space: nowrap
 }
 .link-wrapper .link-host {
-    font-weight: 700;
+    font-weight: 400;
     font-size: 13px;
     line-height: 1.2
 }
@@ -2806,7 +2807,7 @@ figure.photoset {
 .app-nag .app-nag-ratings-text {
     color: #b4b4b4;
     font-size: 13px;
-    font-weight: 700
+    font-weight: 400
 }
 .app-nag .app-nag-callout {
     width: 100%;
@@ -2822,7 +2823,7 @@ figure.photoset {
     width: 100%;
     display: block;
     text-align: center;
-    font-weight: 700;
+    font-weight: 400;
     box-sizing: border-box;
     text-decoration: none;
     cursor: pointer;
