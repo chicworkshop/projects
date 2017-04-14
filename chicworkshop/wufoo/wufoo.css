@@ -123,5 +123,5 @@ form li.buttons input {
     line-height: 1.42;
 }
 .powertiny {
-    display: none;
+    display: none!important;
 }
