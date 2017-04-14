@@ -971,8 +971,8 @@ body.no-scroll {
 }
 .nav-wrapper .nav-item .label {
     text-decoration: none;
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 14px;
+    font-weight: 400;
     text-transform: uppercase
 }
 .header-image-wrapper {
@@ -2889,7 +2889,7 @@ body {
 .description,
 .search-no-results,
 .likes-no-likes {
-    color: #43653e;
+    color: #656565;
 }
 
 a {
@@ -2898,7 +2898,7 @@ a {
 
 #pagination a,
 .nav-wrapper .nav-item .label {
-    color: #529ECC;
+    color: #656565;
 }
 
 #pagination a.next:after {
