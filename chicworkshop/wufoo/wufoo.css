@@ -106,6 +106,7 @@ html {
 .wufoo label.choice {
     font-size: 100%;
     color: #333333
+     border: 1px solid #c4c4c4;
 }
 .wufoo label.choice {
     color: #656565
@@ -123,6 +124,11 @@ form li.buttons input {
     line-height: 1.42;
  letter-spacing: 1px;
  border-radius: 2px;
+ border: none;
+ font-size: .8em;
+}
+form li.buttons input:hover {
+background-color: #abcb00;
 }
 .powertiny {
     display: none!important;
