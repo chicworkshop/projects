@@ -976,6 +976,9 @@ body.no-scroll {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+.nav-wrapper .nav-item.nav-item--active .label {
+    color: #abcb00;
+}
 .header-image-wrapper {
     position: relative;
     height: 350px;
