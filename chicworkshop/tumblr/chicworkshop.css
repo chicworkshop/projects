@@ -40,7 +40,7 @@ html {
 button,
 html,
 select {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .post-content p,
 figure,
@@ -120,7 +120,6 @@ kbd,
 pre,
 samp {
     font-family: monospace, serif;
-    _font-family: 'courier new', monospace;
     font-size: 1em
 }
 pre {
@@ -552,7 +551,7 @@ body.following-page .content {
     min-width: 69px;
     box-shadow: none;
     cursor: pointer;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     line-height: 22px;
     font-weight: 700;
@@ -696,7 +695,7 @@ body {
     line-height: 1.4;
     background: #fafafa;
     color: #444;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 a {
     color: #529ecc;
@@ -1265,7 +1264,7 @@ body.no-scroll {
 }
 .post-content h1,
 .post-content h2 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     margin: .75em 0
 }
@@ -1666,7 +1665,7 @@ body.no-scroll {
     color: #8c8c8c
 }
 .post-extra {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 0
 }
 .post-extra::after {
@@ -2815,7 +2814,7 @@ figure.photoset {
     font-size: 22px;
     line-height: 1.16;
     color: #444;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     margin-top: 10px
 }
@@ -2882,7 +2881,7 @@ body {
 }
 
 .blog-title {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
 }
 
