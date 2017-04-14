@@ -28,7 +28,6 @@ CSS rules into "custom.css".
 }
 * html #logo a {
     /* IE6 png Support */
-    
     background-image: none;
     filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src="//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636", sizingMethod="crop");
 }
@@ -41,7 +40,8 @@ html {
 }
 #logo {
     background-image: none;
-    background-color: #fff padding: 10px 20px;
+    background-color: #fff;
+    padding: 10px 20px;
 }
 #container {
     background: #FFFFFF
@@ -73,35 +73,29 @@ html {
 }
 .wufoo .info h2 {
     font-size: 160%;
-    font-family: inherit;
     color: #656565
 }
 .wufoo .info div {
     font-size: 95%;
-    font-family: inherit;
     color: #656565
 }
 .wufoo .section h3 {
     font-size: 110%;
-    font-family: inherit;
     background: #FFFFFF;
     color: #656565
 }
 .wufoo .section div {
     font-size: 85%;
-    font-family: inherit;
     color: #656565
 }
 .wufoo label.desc,
 .wufoo legend.desc {
     font-size: 95%;
-    font-family: inherit;
     color: #656565
 }
 .wufoo li div,
 .wufoo li div label,
 .wufoo li span label {
-    font-family: inherit;
     color: #656565
 }
 .wufoo input.text,
@@ -109,7 +103,6 @@ html {
 .wufoo select.select,
 .wufoo label.choice {
     font-size: 100%;
-    font-family: inherit;
     color: #333333
 }
 .wufoo label.choice {
@@ -117,7 +110,6 @@ html {
 }
 .wufoo .instruct {
     font-size: 80%;
-    font-family: inherit;
     color: #656565
 }
 .powertiny {
