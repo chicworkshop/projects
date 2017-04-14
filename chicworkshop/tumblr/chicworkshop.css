@@ -331,7 +331,7 @@ body.permalink #posts article {
 }
 .install-banner .install-button {
     display: block;
-    background: #529ecc;
+    background: #929291;
     color: #fff;
     text-align: center;
     border: 0;
@@ -698,7 +698,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 a {
-    color: #529ecc;
+    color: #929291;
     text-decoration: underline
 }
 iframe,
@@ -2835,7 +2835,7 @@ figure.photoset {
 }
 .app-nag .app-nag-app-store-link {
     color: #fff;
-    background-color: #529ecc;
+    background-color: #929291;
     border-radius: 3px;
     font-size: 16px;
     cursor: pointer
@@ -2893,7 +2893,7 @@ body {
     color: #656565;
 }
 a {
-    color: #529ECC;
+    color: #929291;
 }
 #pagination a,
 .nav-wrapper .nav-item .label {
@@ -2918,7 +2918,7 @@ a {
 }
 .no-header-image .logo-wrapper,
 .contain-header-image .logo-wrapper {
-    color: #529ECC;
+    color: #929291;
 }
 .link-wrapper .link-title:after {
     font-family: FontAwesome;
