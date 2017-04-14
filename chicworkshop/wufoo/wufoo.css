@@ -65,3 +65,7 @@ html{
 .wufoo label.choice{color:#656565}
 .wufoo .instruct{font-size:80%;font-family:inherit;color:#656565
 }
+
+.powertiny {
+	display: none;
+}
