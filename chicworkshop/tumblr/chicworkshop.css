@@ -694,7 +694,7 @@ body {
     margin: 0 auto;
     line-height: 1.4;
     background: #fafafa;
-    color: #444;
+    color: #656565;
     font-family: 'Open Sans', sans-serif;
 }
 a {
@@ -2185,7 +2185,7 @@ figure.photoset {
 }
 .link-wrapper .link-excerpt {
     font-size: 14px;
-    line-height: 1.5
+    line-height: 1.75
 }
 .link-wrapper .link-author {
     font-size: 13px;
