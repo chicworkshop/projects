@@ -15,17 +15,20 @@ CSS rules into "custom.css".
 
 - - - - - - - - - - - - - - - - - - - - - */
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+
 /* - - - Default - - - */
 
 /* Logo */
-#logo a {background-image:url('http://wufoo.com/images/themes/logos/shark.png'); min-height:0; height:40px}
+#logo a {background-image:url('//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636'); min-height:0; height:40px}
 * html #logo a {/* IE6 png Support */
 	background-image: none;
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://wufoo.com/images/themes/logos/shark.png", sizingMethod="crop");
+	font-family: 'Open Sans', sans-serif;
 }
 
 /* Backgrounds */
-html{background-image:none;background-color:#99cc00}
+html{background-image:none;background-color:#fff}
 #logo{background-image:none;background-color:#669900}
 #container{background:#FFFFFF}
 .wufoo input.text, .wufoo textarea.textarea{background:#FFFFFF url(/images/fieldbg.gif) repeat-x top}
