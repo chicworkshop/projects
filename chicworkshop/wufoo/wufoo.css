@@ -160,5 +160,5 @@ background-color: #abcb00;
 /* Shopify 3 Months Trial Registration */
 #form2 #Field4,
 #form2 #Field5{
-	width: 135px;
+	width: 135px!important;
 }
