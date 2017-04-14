@@ -32,7 +32,9 @@ CSS rules into "custom.css".
     filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src="//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636", sizingMethod="crop");
 }
 /* Backgrounds */
-
+#container, html.embed {
+    background-color: transparent;
+}
 html {
     background-image: none;
     background-color: #fff;
