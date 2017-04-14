@@ -51,6 +51,7 @@ html {
 .wufoo input.text,
 .wufoo textarea.textarea {
     background: #FFFFFF url(/images/fieldbg.gif) repeat-x top
+    width: 280px;
 }
 .wufoo .focused {
     background: #FFF7C0
@@ -155,4 +156,9 @@ background-color: #abcb00;
 }
 .powertiny {
     display: none!important;
+}
+/* Shopify 3 Months Trial Registration */
+#form2 #Field4,
+#form2 #Field5{
+	with: 135px
 }
