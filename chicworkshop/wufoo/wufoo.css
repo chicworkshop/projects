@@ -129,7 +129,10 @@ form li.buttons input {
  letter-spacing: 1px;
  border-radius: 2px;
  border: none;
- font-size: .8em;
+
+}
+.wufoo input.btTxt {
+  font-size: .8em;
 }
 form li.buttons input:hover {
 background-color: #abcb00;
