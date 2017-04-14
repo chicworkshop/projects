@@ -2905,11 +2905,11 @@ a {
 }
 
 #pagination a.next:after {
-    border-left-color: #529ECC;
+    border-left-color: #656565;
 }
 
 #pagination a.previous:after {
-    border-right-color: #529ECC;
+    border-right-color: #656565;
 }
 
 .loader .loader-bar {
