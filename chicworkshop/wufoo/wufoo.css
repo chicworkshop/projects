@@ -149,7 +149,7 @@ form li.buttons input:hover {
 background-color: #abcb00;
 }
 .wufoo li.focused {
-    background-color: #eee;
+    background-color: #f7f7f7;
 }
 .powertiny {
     display: none!important;
