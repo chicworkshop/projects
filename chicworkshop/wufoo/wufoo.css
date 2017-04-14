@@ -25,19 +25,18 @@ CSS rules into "custom.css".
 	min-height:0; 
 	height:40px;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-position: center; 
 }
 * html #logo a {/* IE6 png Support */
 	background-image: none;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://wufoo.com/images/themes/logos/shark.png", sizingMethod="crop");
-	font-family: 'Open Sans', sans-serif;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636", sizingMethod="crop");
 }
 
 /* Backgrounds */
 html{
 	background-image:none;
-	background-color:#fff
+	background-color:#fff;
+	font-family: 'Open Sans', sans-serif;
 }
 #logo{
 	background-image:none;
