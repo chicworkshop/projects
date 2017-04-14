@@ -62,7 +62,7 @@ html {
     border: 0 solid #cccccc
 }
 .wufoo .info {
-    border-bottom: 1px dotted #CCCCCC
+    border-bottom: 1px solid #dedede;
 }
 .wufoo .instruct {
     border: 1px solid #e6e6e6
@@ -75,30 +75,36 @@ html {
     font-size: 160%;
     color: #656565;
     font-weight: 300;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo .info div {
     font-size: 95%;
-    color: #656565
+    color: #656565;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo .section h3 {
     font-size: 110%;
     background: #FFFFFF;
-    color: #656565
+    color: #656565;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo .section div {
     font-size: 85%;
-    color: #656565
+    color: #656565;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo label.desc,
 .wufoo legend.desc {
     font-size: 95%;
     color: #656565;
     font-weight: 400;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo li div,
 .wufoo li div label,
 .wufoo li span label {
-    color: #656565
+    color: #656565;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo input.text,
 .wufoo textarea.textarea,
@@ -107,13 +113,16 @@ html {
     font-size: 100%;
     color: #333333
      border: 1px solid #c4c4c4;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo label.choice {
-    color: #656565
+    color: #656565;
+ font-family: 'Open Sans', sans-serif;
 }
 .wufoo .instruct {
     font-size: 80%;
-    color: #656565
+    color: #656565;
+ font-family: 'Open Sans', sans-serif;
 }
 /* Customer Added */
 form span.req {
