@@ -157,6 +157,12 @@ background-color: #abcb00;
 .powertiny {
     display: none!important;
 }
+/* Contact From */
+#form1 #Field1,
+#form1 #Field2{
+	width: 135px!important;
+}
+
 /* Shopify 3 Months Trial Registration */
 #form2 #Field4,
 #form2 #Field5{
