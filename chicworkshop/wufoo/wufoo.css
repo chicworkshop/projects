@@ -148,6 +148,9 @@ font-family: 'Open Sans', sans-serif;
 form li.buttons input:hover {
 background-color: #abcb00;
 }
+.wufoo li.focused {
+    background-color: #eee;
+}
 .powertiny {
     display: none!important;
 }
