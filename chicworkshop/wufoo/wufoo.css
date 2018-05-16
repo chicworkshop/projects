@@ -15,7 +15,7 @@ CSS rules into "custom.css".
 
 - - - - - - - - - - - - - - - - - - - - - */
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 /* - - - Default - - - */
 /* Logo */
 
@@ -38,7 +38,7 @@ CSS rules into "custom.css".
 html {
     background-image: none;
     background-color: #fff;
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 #logo {
     background-image: none;
@@ -72,42 +72,43 @@ html {
 }
 /* Typography */
 .wufoo  {
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo .info h2 {
-    font-size: 160%;
     color: #656565;
     font-weight: 300;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	letter-spacing: 1px;
 }
 .wufoo .info div {
     font-size: 95%;
     color: #656565;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo .section h3 {
     font-size: 110%;
     background: #FFFFFF;
     color: #656565;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo .section div {
     font-size: 85%;
     color: #656565;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo label.desc,
 .wufoo legend.desc {
     font-size: 95%;
     color: #656565;
     font-weight: 400;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo li div,
 .wufoo li div label,
 .wufoo li span label {
     color: #656565;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo input.text,
 .wufoo textarea.textarea,
@@ -116,16 +117,16 @@ html {
     font-size: 100%;
     color: #333333
      border: 1px solid #c4c4c4;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo label.choice {
     color: #656565;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo .instruct {
     font-size: 80%;
     color: #656565;
- font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 /* Customer Added */
 form span.req {
@@ -143,7 +144,7 @@ form li.buttons input {
  letter-spacing: 1px;
  border-radius: 2px;
  border: none;
-font-family: 'Open Sans', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .wufoo input.btTxt {
   font-size: 1em;
