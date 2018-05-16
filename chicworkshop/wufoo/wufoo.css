@@ -20,6 +20,10 @@ CSS rules into "custom.css".
 /* - - - Default - - - */
 /* Logo */
 
+body {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
 #logo a {
     background-image: url('//cdn.shopify.com/s/files/1/1405/4918/files/chic-workshop-logo-2017-min_x40.png?7044634879989489636');
     min-height: 0;
