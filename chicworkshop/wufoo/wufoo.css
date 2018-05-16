@@ -83,7 +83,7 @@ html {
 	letter-spacing: 1px;
 }
 .wufoo .info div {
-    font-size: 95%;
+    font-size: 14px;
     color: #656565;
 	font-family: 'Josefin Sans', sans-serif;
 }
@@ -100,7 +100,7 @@ html {
 }
 .wufoo label.desc,
 .wufoo legend.desc {
-    font-size: 95%;
+    font-size: 14px;
     color: #656565;
     font-weight: 300;
 	font-family: 'Josefin Sans', sans-serif;
