@@ -76,7 +76,7 @@ html {
 }
 .wufoo .info h2 {
     color: #656565;
-    font-weight: 300;
+    font-weight: normal;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 18px;
 	letter-spacing: 1px;
