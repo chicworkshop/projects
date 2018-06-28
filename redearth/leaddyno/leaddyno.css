@@ -28,6 +28,7 @@ body {
     border-radius: 0;
     font-size: 13px;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
+    letter-spacing: 1px;
 }
 .button-primary-flat-fullwidth {
     color: #000;
@@ -36,6 +37,7 @@ body {
     border-radius: 0;
     font-size: 13px;
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
+    letter-spacing: 1px;
 }
 .intro-text {
     color: #000;
