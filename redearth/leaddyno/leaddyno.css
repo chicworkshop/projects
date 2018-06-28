@@ -6,3 +6,7 @@ body {
     font-size: 13px;
     letter-spacing: 1px;
 }
+.aff-signup-left p {
+    margin-top: 22px;
+    color: #000 !important;
+}
