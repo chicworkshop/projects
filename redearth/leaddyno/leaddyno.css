@@ -17,6 +17,9 @@ body {
     background-color: transparent; 
     box-shadow: none;
 }
+.sign-up-fields span {
+    color: #000;
+}
 .button-primary-fullwidth {
     background-color: #000;
     border: 1px solid #000;
@@ -24,6 +27,7 @@ body {
     text-transform: uppercase;
     border-radius: 0;
     font-size: 13px;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
 }
 .button-primary-flat-fullwidth {
     color: #000;
@@ -31,10 +35,14 @@ body {
     text-transform: uppercase;
     border-radius: 0;
     font-size: 13px;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif!important;
 }
 .intro-text {
     color: #000;
     font-size: 26px;
+    font-weight: bold;
+}
+.intro-text span {
     font-weight: bold;
 }
 .intro-text-alt {
