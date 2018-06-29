@@ -6,6 +6,15 @@ body {
     font-size: 13px;
     letter-spacing: 1px;
 }
+.main-logo {
+    height: 200px;
+    width: 200px;
+    background-image: url('//cdn.shopify.com/s/files/1/1703/5501/files/logo-002-min_200x.png?11748090545215270240');
+    background-repeat: no-repeat;
+}
+.main-logo img {
+    display: none;
+}
 .aff-signup-left p {
     color: #000 !important;
 }
